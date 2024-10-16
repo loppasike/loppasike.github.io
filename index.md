@@ -11,7 +11,6 @@ Con la consigna de equipar motores en línea y no en V, se utilizó un motor de 
 ![foto](https://i.pinimg.com/736x/6d/4f/be/6d4fbe376f754eea9f275a47a3d70901.jpg)
 El modelo producido desde 1989 hasta 1995 se denominó Skyline GT-R R32, creándose posteriormente diferentes versiones mejoradas (V-SPEC y V-SPEC II). Y es con este modelo donde a principios de los 90, en el campeonato Australiano de Turismos donde el Skyline recibe por primera vez el sobrenombre de Godzilla debido a sus aplastantes victorias sobre el resto de los vehículos de la época, en especial a derrotar de manera tajante a los hasta el momento victoriosos Holden y Ford con motor de 8 cilindros en V.
 
-En el año 1996 se introdujo en el mercado el modelo GT-R R33, mucho más largo que su predecesor y además equipado con un LSD activo, uno de los primeros en poseerlo. Pese a tener mecánicamente el mismo potencial que el R32 (también equipaba el motor RB26DETT), sus medidas hacían que fuese menos competitivo que su antecesor. Esto obligó a los técnicos de Nissan a rediseñar el coche para el lanzamiento de la siguiente versión, el R34.
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
