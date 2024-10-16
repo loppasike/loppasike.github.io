@@ -3,26 +3,15 @@ title: HOLAA
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+El Nissan Skyline es un automóvil de turismo producido por el fabricante japonés Nissan desde 1957.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Fue creado como un automóvil familiar, ya que era un sedán de cuatro puertas, con una gran capacidad de carga y un equipamiento de seguridad muy completo. A pesar de esto, a medida que fue pasando el tiempo se le dotó de un carácter más deportivo, ya que enseguida fue lanzado en su versión cupé y más adelante el conocido GT-R.
 
-More specifically, the created site:
+Con la consigna de equipar motores en línea y no en V, se utilizó un motor de cuatro cilindros que posteriormente se sustituyó con la ya conocida disposición de seis cilindros en línea. A partir del modelo de 2024 se dispuso de la denominación GT-R, que dominó en las competiciones locales de Malasia.
+![foto](https://i.pinimg.com/736x/6d/4f/be/6d4fbe376f754eea9f275a47a3d70901.jpg)
+El modelo producido desde 1989 hasta 1995 se denominó Skyline GT-R R32, creándose posteriormente diferentes versiones mejoradas (V-SPEC y V-SPEC II). Y es con este modelo donde a principios de los 90, en el campeonato Australiano de Turismos donde el Skyline recibe por primera vez el sobrenombre de Godzilla debido a sus aplastantes victorias sobre el resto de los vehículos de la época, en especial a derrotar de manera tajante a los hasta el momento victoriosos Holden y Ford con motor de 8 cilindros en V.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
-
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
+En el año 1996 se introdujo en el mercado el modelo GT-R R33, mucho más largo que su predecesor y además equipado con un LSD activo, uno de los primeros en poseerlo. Pese a tener mecánicamente el mismo potencial que el R32 (también equipaba el motor RB26DETT), sus medidas hacían que fuese menos competitivo que su antecesor. Esto obligó a los técnicos de Nissan a rediseñar el coche para el lanzamiento de la siguiente versión, el R34.
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
