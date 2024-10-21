@@ -10,3 +10,4 @@ El diseño básico de la transmisión de un Eclipse es un motor montado transver
 En sus comienzos derivaba del Toyota Celica, aunque ligeramente más largo y amplio. A partir de mediados de 1986, la tercera generación del Supra pasó a ser un modelo propio.
 
 El Supra también tiene sus raíces en el Toyota 2000GT, siendo el motor su principal ejemplo. Las tres primeras generaciones se ofrecieron con un descendiente directo a la M 2000GT del motor. Todas las generaciones del Supra tienen un motor de seis cilindros en línea.
+[Video montando un coche como el supra] (https://youtu.be/LUJ_ktW0Kbw?si=Oaen3mlUW4aMjYYb)
