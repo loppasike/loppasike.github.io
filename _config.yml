@@ -11,5 +11,5 @@ nav_external_links:
     hide_icon: false
     opens_in_new_tab: true
 params:
-  favicon: "assets/The_Fast_And_The_Furious.eps"
+  favicon: "favicon.ico"
 
