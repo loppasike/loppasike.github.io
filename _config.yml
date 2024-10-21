@@ -10,3 +10,6 @@ nav_external_links:
     url: https://youtu.be/LUJ_ktW0Kbw?si=Oaen3mlUW4aMjYYb
     hide_icon: false
     opens_in_new_tab: true
+search:
+  enabled: true
+
